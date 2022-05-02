@@ -24,14 +24,6 @@ public class SingletonExample2
 {
 	public static void main(String[] args) 
 	{
-		PathSet r1 = PathSet.getPathAddress();
-		PathSet r2= PathSet.getPathAddress();
-		PathSet r3= PathSet.getPathAddress();
-		PathSet r4= PathSet.getPathAddress();
-		System.out.println(r1);
-		System.out.println(r2);
-		System.out.println(r3);
-		System.out.println(r4);
 		
 		
  		
